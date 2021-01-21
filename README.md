@@ -32,5 +32,5 @@
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jondot&layout=compact" alt="shely"/></p>
 
 
-[<img src="https://now-playing-ardacoder.vercel.app/api/spotify-playing" alt="Anlık oynatılan" width="350" />](https://open.spotify.com/user/gx5htpt0emzi893v6uhl5cnqt)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Shely Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
